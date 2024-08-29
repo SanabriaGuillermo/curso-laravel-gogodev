@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# curso-laravel-gogodev
+Siguiendo el curso de Youtube del gran Profesor del canal GOGODEV
+
+[Link al Curso](https://www.youtube.com/watch?v=aljDqJCYkIc&list=PLDllzmccetSM50U0Y9fTOWHvSzAZ_W6Il)
+>>>>>>> fa06090ca92a0ef25399a5dbedbc5ad44581f6be
